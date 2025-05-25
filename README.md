@@ -1,37 +1,36 @@
 # Insurance-Analysis-Tableau
 
-This project involves the exploration and analysis of insurance-related data using SQL. The goal is to uncover insights such as customer demographics, premium trends, claim patterns, 
-and potential risk factors to support data-driven decisions in the insurance domain.
+This project focuses on the exploration and visualization of insurance-related data using Tableau. The objective is to create interactive dashboards that uncover key insights such as customer demographics, premium trends, claim patterns, and policy performance. These visualizations support data-driven decision-making in the insurance domain by presenting complex data in a clear and actionable format.
 
 ## Project Objective
 
-- Analyze key trends in insurance data
-- Segment customers based on risk, region, and premium amounts
-- Identify common claim patterns and high-claim customer profiles
-- Use SQL to filter, aggregate, and extract meaningful insights from the dataset
+- Visualize key trends in insurance data through interactive Tableau dashboards
+- Segment customers based on risk profiles, geographic regions, and premium amounts
+- Identify common claim patterns and high-claim customer segments using visual analytics
+- Leverage Tableau’s data connection and filtering capabilities to extract and present meaningful insights
 
 ## Dataset for Branch
 
-- `Individual Budgets.csv`
-- `Opportunity.csv`
-- `brokerage.csv`
-- `fees.csv`
-- `invoice.csv`
-- `meeting.csv`
+- `Individual Budgets.xlsx`
+- `Opportunity.xlsx`
+- `brokerage.xlsx`
+- `fees.xlsx`
+- `invoice.xlsx`
+- `meeting.xlsx`
 
 ## Dataset for Policy
 
-- `Additional Fields.csv`
-- `Claims.csv`
-- `Customer Information.csv`
-- `Payment History.csv`
-- `Policy Details.csv`
+- `Additional Fields.xlsx`
+- `Claims.xlsx`
+- `Customer Information.xlsx`
+- `Payment History.xlsx`
+- `Policy Details.xlsx`
 
 ## Tools & Technologies
 
-- **Database:** MySQL 8.x  
-- **Client:** MySQL Workbench 
-- **Language:** SQL
+- **Data Visualization:** Tableau 
+- **Data Source:** Excel (.xlsx) 
+- **Dashboard Development:** Tableau Desktop
 
   ## Key Features
 
