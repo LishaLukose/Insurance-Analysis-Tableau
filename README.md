@@ -34,10 +34,11 @@ This project focuses on the exploration and visualization of insurance-related d
 
   ## Key Features
 
-- Import and clean insurance datasets using SQL
-- Join multiple tables to create unified customer and policy views
-- Perform advanced filtering, grouping, and aggregation
-- Identify patterns in customer behavior, policy performance, and claims
+- Import and connect multiple Excel datasets into Tableau
+- Perform data joins and relationships within Tableau to create a unified data model
+- Create calculated fields to derive KPIs like achievement %, policy count, and revenue distribution
+- Apply filters, parameters, and drill-downs for dynamic exploration of insights
+- Build interactive dashboards to visualize branch performance, policy trends, claims, and customer demographics
 
    ## Key Takeaways for Branch
 
